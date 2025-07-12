@@ -1,5 +1,5 @@
-#Devsoc core assignment for AI/ML vertical. BMI classifier
-##This is a ML project for exploring ensemble learning techniques
+# Devsoc core assignment for AI/ML vertical. BMI classifier
+## This is a ML project for exploring ensemble learning techniques
 
 The data was preprocessed by using StandardScaler on all columns of float64 data type.
 Furthermore, all object data type columns are either label encoded or binary encoded.
